@@ -309,16 +309,16 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+      name: '炎龙传说——荷花塘',
+      artist: '炎龙传说',
+      url: 'https://m10.music.126.net/20240711123632/2614ad88e16eb6dff50d88893e531d8d/ymusic/a98a/1bfb/9cb0/7d428cf06c5ffb6128443e6bfd5a67e2.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: '炎龙传说——荷花塘',
+      artist: '炎龙传说',
+      url: 'https://m10.music.126.net/20240711123632/2614ad88e16eb6dff50d88893e531d8d/ymusic/a98a/1bfb/9cb0/7d428cf06c5ffb6128443e6bfd5a67e2.mp3',
       cover:
         'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
